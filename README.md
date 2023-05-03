@@ -8,6 +8,9 @@
 2. 自分の地区にあった Google カレンダーを選択する
 3. カレンダー右下の「+」ボタンをクリックしてカレンダー追加する
 
+<img width="996" alt="スクリーンショット 2023-05-03 21 37 03" src="https://user-images.githubusercontent.com/10007402/235918233-8cbbbcbe-28e2-4eb5-937f-09baae563faf.png">
+
+
 ### 令和 5 年度家庭ごみ収集日程表
 
 http://www.city.tokushima.tokushima.jp/smph/kurashi/recycle/gomi/R5gomischedule.html
